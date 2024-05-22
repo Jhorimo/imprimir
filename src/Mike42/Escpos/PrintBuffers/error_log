@@ -1,0 +1,16 @@
+[30-Apr-2021 21:31:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Mike42\Escpos\PrintBuffers\PrintBuffer' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintBuffers/EscposPrintBuffer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintBuffers/EscposPrintBuffer.php on line 23
+[30-Apr-2021 21:31:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Mike42\Escpos\PrintBuffers\PrintBuffer' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintBuffers/ImagePrintBuffer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintBuffers/ImagePrintBuffer.php on line 26
+[02-May-2021 13:29:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Mike42\Escpos\PrintBuffers\PrintBuffer' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintBuffers/ImagePrintBuffer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintBuffers/ImagePrintBuffer.php on line 26
+[02-May-2021 13:29:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Mike42\Escpos\PrintBuffers\PrintBuffer' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintBuffers/EscposPrintBuffer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintBuffers/EscposPrintBuffer.php on line 23

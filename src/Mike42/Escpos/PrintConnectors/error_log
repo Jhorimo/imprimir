@@ -1,0 +1,40 @@
+[30-Apr-2021 21:31:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Mike42\Escpos\PrintConnectors\PrintConnector' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/CupsPrintConnector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/CupsPrintConnector.php on line 22
+[30-Apr-2021 21:31:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Mike42\Escpos\PrintConnectors\PrintConnector' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/DummyPrintConnector.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/DummyPrintConnector.php on line 19
+[30-Apr-2021 21:31:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Mike42\Escpos\PrintConnectors\PrintConnector' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/FilePrintConnector.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/FilePrintConnector.php on line 20
+[30-Apr-2021 21:31:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mike42\Escpos\PrintConnectors\FilePrintConnector' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/NetworkPrintConnector.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/NetworkPrintConnector.php on line 20
+[30-Apr-2021 21:31:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Mike42\Escpos\PrintConnectors\PrintConnector' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 25
+[02-May-2021 13:29:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mike42\Escpos\PrintConnectors\FilePrintConnector' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/NetworkPrintConnector.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/NetworkPrintConnector.php on line 20
+[02-May-2021 13:29:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Mike42\Escpos\PrintConnectors\PrintConnector' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/DummyPrintConnector.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/DummyPrintConnector.php on line 19
+[02-May-2021 13:29:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Mike42\Escpos\PrintConnectors\PrintConnector' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/FilePrintConnector.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/FilePrintConnector.php on line 20
+[02-May-2021 13:29:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Mike42\Escpos\PrintConnectors\PrintConnector' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/CupsPrintConnector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/CupsPrintConnector.php on line 22
+[02-May-2021 13:35:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Mike42\Escpos\PrintConnectors\PrintConnector' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 25

@@ -1,0 +1,24 @@
+[30-Apr-2021 21:31:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mike42\Escpos\EscposImage' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/GdEscposImage.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/GdEscposImage.php on line 21
+[30-Apr-2021 21:31:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mike42\Escpos\EscposImage' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/ImagickEscposImage.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/ImagickEscposImage.php on line 21
+[30-Apr-2021 21:31:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mike42\Escpos\EscposImage' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/NativeEscposImage.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/NativeEscposImage.php on line 21
+[02-May-2021 13:29:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mike42\Escpos\EscposImage' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/ImagickEscposImage.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/ImagickEscposImage.php on line 21
+[02-May-2021 13:31:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mike42\Escpos\EscposImage' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/GdEscposImage.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/GdEscposImage.php on line 21
+[02-May-2021 13:31:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mike42\Escpos\EscposImage' not found in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/NativeEscposImage.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/sekuasha/public_html/imprimir/src/Mike42/Escpos/NativeEscposImage.php on line 21
